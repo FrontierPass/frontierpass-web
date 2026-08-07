@@ -1,4 +1,3 @@
-# frontierpass-web
 # FrontierPass Web
 
 Official corporate website for FrontierPass.
